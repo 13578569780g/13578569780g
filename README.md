@@ -1,7 +1,8 @@
 ### Hi there 👋
-
+### 👩‍🎓I'm learning at 🏫CHANGCHUN University OF Technology
 <!--
 **13578569780g/13578569780g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
